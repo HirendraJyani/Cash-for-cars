@@ -1,0 +1,30 @@
+.section2{
+    height:95vh;
+    position: relative;
+    /* z-index: -5; */
+    
+    background-color:#fee715ff;
+    width:100%;
+    border-radius: 45px;
+    box-shadow: 10px 10px 8px #0c0c0c9c;
+    
+    }
+    .heading2{
+        height:70px;
+        background-color:#101820ff;
+        width:100%;
+        color: aliceblue;
+       padding-left:500px;
+       padding-top:15px;
+       font-family: 'Poppins', sans-serif;
+       border-radius: 45px;
+       box-shadow: 10px 10px 8px #0c0c0c9c;
+    }
+    .four{
+        display: flex;
+        height:592px;
+        width:100%;
+        padding-top:65px;
+        background-color:#fee715ff;
+        align-items: center;
+    }

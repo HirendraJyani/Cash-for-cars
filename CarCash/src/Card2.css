@@ -1,0 +1,38 @@
+.card2{
+    flex:0.25;
+    
+    height:529px;
+    
+}
+
+
+.cards2{
+    height: 380px;
+    
+    box-shadow: 10px 10px 8px #0c0c0c9c;
+    width:302px;
+    border-radius: 15%;
+    margin:130px auto;
+    padding-top:40px;
+   
+    color:rgb(0, 0, 0);
+    font-family:lato;
+    background-color:#fee715ff;
+    
+    transition: transform 450ms;
+}
+
+.cards2:hover {
+    
+    transform: scale(1.09);
+    background-color: rgb(252, 247, 0);
+}
+
+.cardhead{
+    padding:20px;
+    font-size:0.9em;
+}
+.cardcontent{
+    font-size:1em;
+
+}
